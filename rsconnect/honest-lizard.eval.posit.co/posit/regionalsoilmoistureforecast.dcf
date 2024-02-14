@@ -1,0 +1,12 @@
+name: regionalsoilmoistureforecast
+title: regionalSoilMoistureForecast
+username: posit
+account: posit
+server: honest-lizard.eval.posit.co
+hostUrl: https://honest-lizard.eval.posit.co/cnct/__api__
+appId: 14
+bundleId: 16
+url: https://honest-lizard.eval.posit.co/cnct/content/115afc0c-7896-4137-928e-1c2d58ff4ce4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

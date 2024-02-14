@@ -1,0 +1,12 @@
+name: regionalSoilMoistureForecast
+title: regionalSoilMoistureForecast
+username: atashie
+account: atashie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10711997
+bundleId: 8239515
+url: https://atashie.shinyapps.io/regionalSoilMoistureForecast/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
